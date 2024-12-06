@@ -1,0 +1,22 @@
+#parent {
+  display: flex;
+  gap: 20px;
+}
+.card-body {
+  background-color: aqua;
+  width: 200px;
+  height: 400px;
+  text-align: center;
+}
+.card-body h2 {
+  width: 200px;
+  height: 100px;
+}
+.card-body img {
+  width: 200px;
+  height: 200px;
+  border-radius: 15px;
+}
+.card-body p {
+  width: 180px;
+}
